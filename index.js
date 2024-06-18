@@ -1,4 +1,7 @@
 const a = 100;
 const b = 200;
+const d = 300;
+const e = 400;
+const f = 500;
 
 const c = a + b;
