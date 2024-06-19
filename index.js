@@ -3,5 +3,6 @@ const b = 200;
 const d = 300;
 const e = 400;
 const f = 500;
+const g = 600;
 
 const c = a + b;
