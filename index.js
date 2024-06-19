@@ -4,5 +4,6 @@ const d = 300;
 const e = 400;
 const f = 500;
 const g = 600;
+const h = 700;
 
 const c = a + b;
